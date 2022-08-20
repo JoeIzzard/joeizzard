@@ -25,7 +25,7 @@
 
 I am a full-stack/DevOps developer working on :performing_arts: theatrical & show control related projects.
 
-- :work: I am a Senior Lighting Technician working for the National Theatre in London, UK
+- :office: I am a Senior Lighting Technician working for the National Theatre in London, UK
 - :man_student: I am studying Computer Science at the University of London
 - :zap: In my freetime, I write articles and software to further Show Controller systems for [Show Controllers](https://showcontrollers.com)
 - :zap: I contribute to Open Source projects wherever possible
