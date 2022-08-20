@@ -1,19 +1,18 @@
-<div align="center">
-    <img style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/3457283?v=4">
-</div>
-<div>
-<a href="https://www.linkedin.com/in/joeizzard/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" alt="Linked In" />
-</a>
-<a href="https://twitter.com/JoeIzzard">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter" />
-</a>
-</div>
-<div>
-<img src="https://komarev.com/ghpvc/?username=joeizzard&style=for-the-badge" alt="Views Counter">
-</div>
-<div align="center">
-    Hey There! :wave:
+<div id="header">
+    <div id="badges">
+        <a href="https://www.linkedin.com/in/joeizzard/">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" alt="Linked In" />
+        </a>
+        <a href="https://twitter.com/JoeIzzard">
+            <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter" />
+        </a>
+    </div>
+    <div>
+        <img src="https://komarev.com/ghpvc/?username=joeizzard&style=for-the-badge" alt="Views Counter">
+    </div>
+    <div align="center">
+        <h1>Hey There! :wave:</h1>
+    </div>
 </div>
 
 <div align="center">
